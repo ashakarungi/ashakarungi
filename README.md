@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashakarungi&label=Profile%20views&color=0e75b6&style=flat" alt="ashakarungi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ashakodes" target="blank"><img src="https://img.shields.io/twitter/follow/ashakodes?logo=twitter&style=for-the-badge" alt="ashakodes" /></a> </p>
 
 - ⚡ Fun fact **I love cartoons.**
 
